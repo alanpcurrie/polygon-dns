@@ -39,7 +39,7 @@ export enum RecordType {
 }
 
 const App = () => {
-  const { activate, active, account, library, chainId } = useWeb3React();
+  const { active, account, library, chainId } = useWeb3React();
   const [domain, setDomain] = useState('');
   const [mintPrice, setMintPrice] = useState(0);
 
