@@ -7,7 +7,7 @@ export default function ConnectButton() {
 
   return (
     <div className="connect-wallet-container">
-      <img src="https://media.giphy.com/media/c16VH0CFMh7gOqqXOM/giphy.gif" alt="rad gif" />
+      <img src="https://media.giphy.com/media/l0LIYv9tJFIVHxF5u/giphy.gif" alt="rad gif" />
       <button
         className="cta-button connect-wallet-button"
         onClick={() => {
